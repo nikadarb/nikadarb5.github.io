@@ -1,0 +1,22 @@
+div
+{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(231, 178, 213);
+}
+body
+{
+    background-color: rgb(236, 138, 187);
+}
+p
+{
+    margin: auto;
+    width: 200px;
+    color: rgb(0, 0, 0);
+}
+button
+{
+    background-color: rgb(182, 141, 162);
+    color: rgb(0, 0, 0);
+}
